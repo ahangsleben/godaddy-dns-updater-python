@@ -1,0 +1,4 @@
+[godaddy]
+api_key = example
+api_secret = example
+domain_name = example.com
